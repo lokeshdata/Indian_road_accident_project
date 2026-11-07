@@ -1,0 +1,6 @@
+Data: 13559 accidents after cleaning; columns dropped for more than 50% missing values: ['festival'].
+Fatal share: overall 20.0%; fog 48.3% vs clear 5.9%.
+Fatal share: night 40.1% vs other times 9.8%.
+Fatal share: highway 30.7% vs urban 9.4%.
+Model: baseline accuracy 45.0%; logistic regression 81.9%; tuned 81.9%.
+Features most strongly linked to fatal outcomes in the model: time_of_day_Night, cause_drunk driving, cause_overspeeding, weather_fog, visibility_low.
