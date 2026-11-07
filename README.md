@@ -179,7 +179,7 @@ The model excludes the outcome columns: `casualties` (only known after the accid
 </p>
 <p align="center">
   <img src="charts/risk_score_by_severity.png" width="45%" alt="Risk score by severity">
-  <img src="charts/location_scatter.png" width="45%" alt="Location scatter by severity">
+  <img src="charts/accidents_by_time_of_day.png" width="45%" alt="Accidents by time of day">
 </p>
 
 ### Model
