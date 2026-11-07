@@ -21,10 +21,9 @@
 4. [Tools and Technologies](#-tools-and-technologies)
 5. [Methods](#-methods)
 6. [Key Insights](#-key-insights)
-7. [Dashboard / Model / Output](#-dashboard--model--output)
-8. [How to Run This Project](#-how-to-run-this-project)
-9. [Results & Conclusion](#-results--conclusion)
-10. [Future Work](#-future-work)
+7. [How to Run This Project](#-how-to-run-this-project)
+8. [Results & Conclusion](#-results--conclusion)
+9. [Future Work](#-future-work)
 
 ---
 
@@ -175,7 +174,7 @@ The model excludes the outcome columns: `casualties` (only known after the accid
 
 <p align="center">
   <img src="charts/severity_distribution.png" width="45%" alt="Severity distribution">
-  <img src="charts/correlation_heatmap.png" width="45%" alt="Correlation heatmap">
+  <img src="charts/accidents_by_city.png" width="45%" alt="Accident by city">
 </p>
 <p align="center">
   <img src="charts/risk_score_by_severity.png" width="45%" alt="Risk score by severity">
