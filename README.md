@@ -550,5 +550,14 @@ Indian_road_accident_project/
 - Run **hotspot detection** on latitude/longitude with DBSCAN or K-Means.
 - Deploy the model as a **REST API / web app** (for example with Streamlit) and feed it live weather and traffic data.
 
+---
+
+## 👤 Author
+
+**Lokesh Lohar**
+- Email: lokeshglohar@gmail.com 
+- LinkedIn: www.linkedin.com/in/loharlokesh
+- GitHub: https://github.com/lokeshdata
+
 
 ⭐ If you found this project useful, consider giving the repository a star!
